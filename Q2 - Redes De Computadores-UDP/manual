@@ -1,0 +1,7 @@
+Você está prestes a testar e utilizar a conexão TCP cliente, servidor;
+
+primeiro acesse o diretório da pasta raiz deste arquivo, 
+
+digite no cmd $ cd ServerAndClient , 
+logo em seguida ative o servidor com o comando : $ python3 ServidorTCP.py
+entre no seu navegador e digite : localhost:5030/index.html
